@@ -1,4 +1,4 @@
-# DSA4262 - Prediction of m6A RNA modifications from direct RNA-Seq data
+# Prediction of m6A RNA modifications from direct RNA-Seq data
 
 This project aims to identify m6A RNA modifications from direct RNA sequencing data by leveraging on XGBoost and feature engineering.
 
@@ -51,8 +51,8 @@ python3 -V # Check if Python3 version is installed successfully
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yunethiri/DSA4262-geneandtonic.git
-   cd DSA4262-geneandtonic/
+   git clone https://github.com/Chewytry/m6a-seq/
+   cd m6a-seq/
    ```
 
 2. **Create Virtual Environment:** (Optional but Recommended)
@@ -72,8 +72,8 @@ Use at least `m5a.2xlarge` instance. For faster feature engineering speeds and l
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yunethiri/DSA4262-geneandtonic.git
-   cd DSA4262-geneandtonic/
+   git clone https://github.com/Chewytry/m6a-seq/
+   cd m6a-seq/
    ```
    
 2. **Install pip:** (If Not Already Installed)
